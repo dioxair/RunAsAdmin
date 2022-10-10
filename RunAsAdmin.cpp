@@ -1,4 +1,5 @@
 #include <format>
+#include <string>
 #include <Windows.h>
 #include <tlhelp32.h>
 #include <tchar.h>
